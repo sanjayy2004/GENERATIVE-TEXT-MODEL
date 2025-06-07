@@ -27,3 +27,6 @@ Easy-to-run Python script with customizable parameters
 Suitable for creative writing, content ideation, or NLP experimentation
 
 This project is ideal for learning how to integrate and use state-of-the-art language models in Python with just a few lines of code.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/6fcedbfc-b801-4653-b2c6-9ca45401be6b)
